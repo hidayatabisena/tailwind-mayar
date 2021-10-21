@@ -1,5 +1,5 @@
-# Learning Tailwind CSS
+# HERO Section Tailwind CSS
 
-My first attempt to learn Tailwind CSS
+Just another Tailwind CSS Hero Section
 
 [Hidayat Abisena](https://hidayatabisena.com)
